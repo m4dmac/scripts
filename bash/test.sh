@@ -2,6 +2,4 @@
 
 _DATE=`date +%Y%m%d`
 
-echo $_DATE
-
-
+echo Today is $_DATE
